@@ -1,5 +1,5 @@
 # Match Same Pictures
-<img width="500px" height="689" alt="image" src="https://github.com/user-attachments/assets/ef2e4971-e9b6-4289-a17c-a99a64d115c6" />
+<img width="500px" height="689" alt="image" src="https://github.com/user-attachments/assets/ef2e4971-e9b6-4289-a17c-a99a64d115c6" /><br/>
 <img width="500px" height="689" alt="image" src="https://github.com/user-attachments/assets/eb26a1e0-aa96-466c-bcda-a2a5d6836ce9" />
 
 같은 그림 카드를 짝지어 맞추는 카드 매칭 게임 프로젝트입니다.  
